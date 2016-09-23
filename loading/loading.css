@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'coolvetica';
-	src: url('asset://resource/fonts/coolvetica.ttf');
+	src: url('coolvetica.ttf');
 	font-weight: 500;
 }
 
@@ -27,7 +27,7 @@ body {
 }
 
 #spinner {
-	background-image: url('loading/spinner.png');
+	background-image: url('spinner.png');
 	background-position: center top;
 
 	position: absolute;
@@ -43,7 +43,7 @@ body {
 }
 
 #logo {
-	background-image: url('loading/logo.png');
+	background-image: url('logo.png');
 	background-position: center top;
 
 	position: absolute;
@@ -119,37 +119,37 @@ body {
 }
 
 .icon-box {
-	background-image: url('asset://garrysmod/materials/icon16/box.png');
+	background-image: url('box.png');
 }
 
 .icon-palette {
-	background-image: url('asset://garrysmod/materials/icon16/palette.png');
+	background-image: url('palette.png');
 }
 
 .icon-brick {
-	background-image: url('asset://garrysmod/materials/icon16/brick.png');
+	background-image: url('brick.png');
 }
 
 .icon-sound {
-	background-image: url('asset://garrysmod/materials/icon16/sound.png');
+	background-image: url('sound.png');
 }
 
 .icon-world {
-	background-image: url('asset://garrysmod/materials/icon16/world.png');
+	background-image: url('world.png');
 }
 
 .icon-table_edit {
-	background-image: url('asset://garrysmod/materials/icon16/table_edit.png');
+	background-image: url('table_edit.png');
 }
 
 .icon-font {
-	background-image: url('asset://garrysmod/materials/icon16/font.png');
+	background-image: url('font.png');
 }
 
 .icon-page {
-	background-image: url('asset://garrysmod/materials/icon16/page.png');
+	background-image: url('page.png');
 }
 
 .icon-bomb {
-	background-image: url('asset://garrysmod/materials/icon16/bomb.png');
+	background-image: url('bomb.png');
 }
