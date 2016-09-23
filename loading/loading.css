@@ -27,7 +27,7 @@ body {
 }
 
 #spinner {
-	background-image: url('asset://garrysmod/bin/loading/spinner.png');
+	background-image: url('loading/spinner.png');
 	background-position: center top;
 
 	position: absolute;
@@ -43,7 +43,7 @@ body {
 }
 
 #logo {
-	background-image: url('asset://garrysmod/bin/loading/logo.png');
+	background-image: url('loading/logo.png');
 	background-position: center top;
 
 	position: absolute;
