@@ -27,7 +27,7 @@ body {
 }
 
 #spinner {
-	background-image: url('spinner.png');
+	/*background-image: url('spinner.png');*/
 	background-position: center top;
 
 	position: absolute;
@@ -43,7 +43,7 @@ body {
 }
 
 #logo {
-	background-image: url('logo.png');
+	background-image: url('kotbrot.png');
 	background-position: center top;
 
 	position: absolute;
