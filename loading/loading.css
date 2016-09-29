@@ -16,7 +16,7 @@ body {
     font-weight: 300;
 	font-family: 'coolvetica', 'helvetica', 'arial', sans-serif;
 	font-size: 22px;
-	color: rgb(251, 251, 251);
+	color: rgb(101, 101, 101);
 
 	text-align: center;
 }
@@ -72,7 +72,7 @@ body {
 .message {
 	font-family: 'coolvetica', 'helvetica', 'arial', sans-serif;
 	font-size: 22px;
-	color: rgb(240, 240, 240);
+	color: rgb(21, 21, 21);
     font-weight: 300;
 	margin-bottom: 4px;
 }
